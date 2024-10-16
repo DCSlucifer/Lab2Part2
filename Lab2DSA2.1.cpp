@@ -1,3 +1,7 @@
+//Full Name: Võ Thành Danh
+//MSSV     : 22520201
+//Lab 02 - Part 2
+//Notes or Remarks:
 #include <iostream>
 #include <iomanip>
 
